@@ -30,10 +30,13 @@
    + IoT protyping: <br><br>
      <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/>
    
-   + Additional Software: <br><br>
+   + Data Science: <br><br>
      <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
+     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.r-project.org/Rlogo.png" height="50px">
+     
+     + Additional Software: <br><br>
      <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
-     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>   
+     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>  
 
 
 ### Looking forward to collaborate on projects involving:
