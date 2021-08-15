@@ -34,7 +34,7 @@
      <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.r-project.org/Rlogo.png" height="50px">
      
-     + Additional Software: <br><br>
+   + Additional Software: <br><br>
      <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
      <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>  
 
