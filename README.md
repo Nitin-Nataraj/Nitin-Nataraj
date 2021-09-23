@@ -49,11 +49,8 @@
       - Tensorflow
       - Pandas
       - Sci-Kit Learn
-      - ReactJS
-      - REST API Building
 
    + Theory:
-      - Decision Trees and Random Forests 
       - DSA
       - Computer Networks
 
