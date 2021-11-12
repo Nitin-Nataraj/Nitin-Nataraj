@@ -46,13 +46,11 @@
 
 ### Currently Learning
    + Libraries:
-      - Tensorflow
-      - Pandas
-      - Sci-Kit Learn
+      - React
+      - NextJS
 
    + Theory:
       - DSA
-      - Computer Networks
 
  
 
