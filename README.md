@@ -8,8 +8,6 @@
 ### Domains of Interest
    + Web/App Development
    + Internet of Things
-   + Artifical Intelligence
-   + Cyber Security
    
 ### Key Skills 
    + Programming Languages: <br><br>
