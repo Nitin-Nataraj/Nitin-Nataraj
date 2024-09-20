@@ -2,7 +2,7 @@
 **@Nitin-Nataraj**
 <br>
 <br>
-**__Hello there, I'm a 3rd year ECE undergrad with a knack for tech.__**
+**__Hello there, I'm an ECE undergrad with a knack for tech.__**
 <br>
 
 ### Domains of Interest
@@ -20,6 +20,7 @@
      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+     <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" />
      
    + DBMS:<br><br>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
@@ -44,11 +45,10 @@
 
 ### Currently Learning
    + Libraries:
-      - React
       - NextJS
-
-   + Theory:
-      - DSA
+      - React-Table
+      - React-Query
+      
 
  
 
